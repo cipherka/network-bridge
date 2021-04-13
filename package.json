@@ -1,0 +1,14 @@
+{
+    "name": "network-bridge",
+    "version": "1.0.0",
+    "description": "Мост между Mastodon и Telegram",
+    "main": "index.js",
+    "repository": "https://github.com/vlfz/network-bridge",
+    "author": "vlfz",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "mastodon-api": "^1.3.0",
+        "node-telegram-bot-api": "^0.52.0"
+    }
+}

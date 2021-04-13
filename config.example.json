@@ -1,0 +1,15 @@
+{
+    "telegram": {
+        "token": "***",
+        "chatID": -1
+    },
+    "mastodon": {
+        "client": {
+            "client_key": "***",
+            "client_secret": "***",
+            "access_token": "***",
+            "api_url": "https://nether.sqdsh.top/api/v1/"
+        },
+        "acct": ["admin", "admin@nether.sqdsh.top"]
+    }
+}
